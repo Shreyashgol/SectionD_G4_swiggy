@@ -1,0 +1,4 @@
+Test,Description,F-Statistic,p-value,Significant
+ANOVA,Rating by City,62.9676,0.0,True
+ANOVA,Rating by Category,3.1207,0.0,True
+Spearman Correlation,Price vs Rating,0.0286,0.0,True
