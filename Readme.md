@@ -41,7 +41,7 @@ If you are working in Google Colab:
 | **Sector** | Food Tech / Quick Commerce |
 | **Team ID** | SectionD — Group 4 |
 | **Section** | Section D |
-| **Faculty Mentor** | Satyaki Das |
+| **Faculty Mentor** | Archit Raj |
 | **GitHub** | [https://github.com/Shreyashgol/SectionD_G4_swiggy](https://github.com/Shreyashgol/SectionD_G4_swiggy) |
 | **Tableau Dashboard** | https://public.tableau.com/app/profile/shashwat.sinha3668/viz/Swiggy_Restaurants_Analytics/CustomerSegment |
 
