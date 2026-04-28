@@ -50,10 +50,10 @@ If you are working in Google Colab:
 | Role | Name | GitHub Username |
 |---|---|---|
 | Statistical & Business Analysis Lead | Shreyash Golhani | `Shreyashgol` |
-| Data Engineering Lead | Shivam Dixit | ShivamDixit20 |
-| EDA & Visualization Lead | Kavya Mukhija | _To be added_ |
-| KPI Building Lead | Saksham Sontakke | _To be added_ |
-| Tableau Dashboard Lead | Shashwant Sinha | _To be added_ |
+| Data Engineering Lead | Shivam Dixit | `ShivamDixit20` |
+| EDA & Visualization Lead | Kavya Mukhija | `offxkavya`|
+| KPI Building Lead | Saksham Sontakke | `CyborgX-hash` |
+| Tableau Dashboard Lead | Shashwant Sinha | `ShashwatSinha03` |
 | Report & PPT Lead | Yash | _To be added_ |
 
 ---
