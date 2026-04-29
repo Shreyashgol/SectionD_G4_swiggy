@@ -54,7 +54,7 @@ If you are working in Google Colab:
 | EDA & Visualization Lead | Kavya Mukhija | `offxkavya`|
 | KPI Building Lead | Saksham Sontakke | `CyborgX-hash` |
 | Tableau Dashboard Lead | Shashwant Sinha | `ShashwatSinha03` |
-| Report & PPT Lead | Yash | _To be added_ |
+| Report & PPT Lead | Yash Dhankhar | `OnlineBunker` |
 
 ---
 
